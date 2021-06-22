@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @guscooke
-- 👀 I’m interested in learning new technologies, meet new people, new opportunities
-- 🌱 I’m currently learning Node js.
+- 👀 I’m interested in learning new technologies, meet new people, new opportunitie
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me @guscooke14@gmail.com
 
