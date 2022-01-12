@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @guscooke
--I’m always interested in learning new technologies, meet new people, new opportunitie
-- I’m looking to collaborate on projects.
+-Over 4 years working with Web Development projects, both on Frontend and Backend, throughout this journey I have developed projects for Industry 4.0, Insurance cia, Telemedicine, Aesthetic and Retail, using frameworks from Javascript on the frontend (React and Vue Js) and Backend (express for Node js), Database like MySQL.
 - 📫 How to reach me @guscooke14@gmail.com
 
 <!---
