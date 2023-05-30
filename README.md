@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @guscooke
--Over 4 years working with Web Development projects, both on Frontend and Backend, throughout this journey I have developed projects for Industry 4.0, Insurance cia, Telemedicine, Aesthetic and Retail, using frameworks from Javascript on the frontend (React and Vue Js) and Backend (express for Node js), Database like MySQL.
-- 📫 How to reach me @guscooke14@gmail.com
+A Dynamic and results-driven professional with a unique combination of skills in Business Development as well as Software Engineer. With more than 20 years of experience in several industries, I bring a wealth of knowledge and expertise to any role.
+
+- Working as Frontend Developer, with 5 years of experience in Web Development projects across various industries. Proficient in JavaScript and frameworks (React, Next js, Vue js, TypeScript).
+
+- My strong track record of delivering results and driving growth make me a valuable asset to any team.
 
 <!---
 guscooke/guscooke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
